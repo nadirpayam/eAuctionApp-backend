@@ -13,6 +13,8 @@ public class User {
 	private String password;
 	private String name;
 	private String surName;
+
+	@Column(name="role", columnDefinition = "varchar(255) default 'USER'")
 	private String role;
 
 	public Long getId() {
