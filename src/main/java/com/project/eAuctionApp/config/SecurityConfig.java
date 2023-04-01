@@ -81,6 +81,8 @@ public class SecurityConfig{
     		.authorizeRequests()
     		.antMatchers(HttpMethod.GET, "/products")
     		.permitAll()
+    		.antMatchers(HttpMethod.GET, "/products/rand")
+    		.permitAll()
     		.antMatchers(HttpMethod.GET, "/users")
     		.permitAll()
     		.antMatchers("/auth/**")

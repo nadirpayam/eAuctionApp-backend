@@ -37,11 +37,18 @@ public class ProductController {
 		return productService.getOneProduct(productId);
 
 	}
+	
+
 
 	@GetMapping
 	public List<Product> getAllProducts() {
 		return productService.getAllProducts();
 	}
+	
+	@GetMapping("/rand")
+	 public List<Product> getRandomProducts() {
+	        return productService.getRandomProducts();
+	  }
 
 	@PostMapping
 	public String createPro(@RequestParam("file") MultipartFile file, @RequestParam("name") String name,

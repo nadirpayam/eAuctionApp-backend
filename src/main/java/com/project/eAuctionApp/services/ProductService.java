@@ -45,6 +45,8 @@ public class ProductService {
 			return null;
 		}
 	}
+	
+
 
 	public void deleteOneProduct(Long productId) {
 		productRepository.deleteById(productId);
@@ -100,6 +102,11 @@ public class ProductService {
 			return productRepository.save(existingProduct.get());
 		}
 		return null;
+	}
+
+	public List<Product> getRandomProducts() {
+        return productRepository.findRandomProducts();
+
 	}
 
 }
