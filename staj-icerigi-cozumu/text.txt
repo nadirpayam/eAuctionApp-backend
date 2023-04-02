@@ -1,0 +1,37 @@
+Sunucudan veri alındı: 
+{
+"type":"HELLO",
+"hint":"Use: a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z. input : ab,z result : zy,a",
+"message":"Povzhv hvmw z nvhhztv drgs xfiivmg hvhhrlm rm qhlm ulinzg erz gsrh vcznkov : 
+{\"gbkv\":\"REGISTER\",\"mznv\":\"blfi mznv\",\"hfimznv\":\"blfi hfimznv\",\"vnzro\":\"blfi vnzro zwwivhh\",\"ivtrhgizgrlmKvb\":\"ccc\"}. 
+Kvvk orhgvmrmt mvd nvhhztv uli gzhp xlmgvmg! Ylfi ivtrhgizgrlmKvb : 2851281zvy787y4y239z173w21v58986u5wxzyu9x20uyy68wxxuyzu44w8xz328"
+}
+
+a:z
+b:y
+c:x
+d:w
+e:v
+f:u
+g:t
+h:s
+i:r
+j:q
+k:p
+l:o
+m:n
+
+Povzhv hvmw z nvhhztv drgs xfiivmg hvhhrlm rm qhlm ulinzg erz gsrh vcznkov
+Please send a message with current session in json format via this example
+
+{\"gbkv\":\"REGISTER\",\"mznv\":\"blfi mznv\",\"hfimznv\":\"blfi hfimznv\",\"vnzro\":\"blfi vnzro zwwivhh\",\"ivtrhgizgrlmKvb\":\"ccc\"}. 
+{\"type\":\"REGISTER\",\"name\":\"your name\",\"surname\":\"your surname\",\"email\":\"your email adress\",\"registrationKey\":\"xxx\"}. 
+
+Kvvk orhgvmrmt mvd nvhhztv uli gzhp xlmgvmg! Ylfi ivtrhgizgrlmKvb : 2851281zvy787y4y239z173w21v58986u5wxzyu9x20uyy68wxxuyzu44w8xz328"
+Keep listening new message for task contant! Your registrationKey:  2851281aeb787b4b239a173d21e58956f5dcabf9c20fbb68dccfbaf44d8ca328
+
+
+{\"type\":\"REGISTER\",\"name\":\"nadir\",\"surname\":\"payam\",\"email\":\"nadirpayam@hotmail.com\",\"registrationKey\":\"2851281aeb787b4b239a173d21e58956f5dcabf9c20fbb68dccfbaf44d8ca328\"}. 
+
+48u194zv6v36uy3zvy461x6034z732w7w7x4w7v1028x85yzw71u1163uzu09084
+

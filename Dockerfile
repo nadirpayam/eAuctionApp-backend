@@ -1,5 +1,6 @@
 FROM openjdk:11
 
-COPY eAuctionApp-0.0.1-SNAPSHOT.jar eAuctionApp.jar
+COPY target/eAuctionApp-0.0.1-SNAPSHOT.jar eAuctionApp.jar
 
-ENTRYPOINT ["java","-jar","/eAcutionApp.jar"]
+ENTRYPOINT ["java","-jar","/eAuctionApp.jar"]
+
